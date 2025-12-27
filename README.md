@@ -3,7 +3,7 @@
 A responsive website converted from a **mobile app UI into a full web experience** built with HTML, CSS, and JavaScript.
 This project showcases how mobile app design can be translated into a web layout while keeping usability and visual appeal in mind.
 
-🌐 **Live Demo:** https://tech-website-rho.vercel.app/
+🌐 **Live Demo:** https://tech-lab-website.vercel.app/
 
 ---
 
