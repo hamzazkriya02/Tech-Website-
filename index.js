@@ -9,6 +9,7 @@
             }, 2000);
         }
 
+         
         /*  FREE SOLUTION SEE MORE (FIXED) */
         (function () {
             const toggleBtn = document.getElementById("toggle-see-more");

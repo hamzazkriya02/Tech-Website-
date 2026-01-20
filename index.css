@@ -687,7 +687,7 @@
 
        @media (min-width: 768px) {
            .profile-pic {
-               top: 50vh;
+               top: 43vh;
 
 
            }
@@ -697,14 +697,14 @@
 
        @media (min-width: 768px) {
            .about-bg-img {
-               margin-top: -261px;
+               margin-top: -210px;
 
            }
        }
 
        @media (min-width: 768px) {
            .about-text {
-               margin-top: 40px;
+               margin-top:15px;
            }
        }
 
@@ -718,4 +718,18 @@
            .slide img {
                object-fit: contain
            }
+       }
+
+
+       @media (min-width: 768px) {
+    .about-textTwo {
+        margin-top: -150px;
+    }
+}
+
+  .about-textTwo {
+           text-align: center;
+           font-size: 13px;
+           line-height: 1.7;
+           padding: 0 18px;
        }
